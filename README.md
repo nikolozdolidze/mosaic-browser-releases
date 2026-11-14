@@ -101,7 +101,7 @@ This repository holds Mosaic Browser's releases: the installer, its checksums an
 - **Zoom per site**, from 25% to 500%. Also find in page (with **Highlight all**, every match marked and the current one in another colour), print and developer tools.
 - **Clear error pages**: why a page couldn't load, a warning before an http site, a dangerous one or one your filter lists say not to open, and a page for a tab whose page crashed. Reload tries again.
 - **How protected to be**, on first start: Maximum (every protection, at its strictest: what's chosen to begin with, and what Skip keeps), Balanced (all but what can break sites), Minimum (the essentials) or None. Each turns Settings' own switches on or off, so any can be changed later.
-- **The welcome tour** on first start: what the browser does, a step at a time, with importing bookmarks, history, passwords and cards from Chrome, Edge, Brave, Opera, Vivaldi and others on the same computer. It's in the command palette ("Welcome") to see again.
+- **The welcome tour** on first start: everything the browser does, a step at a time (splits, tabs and tab groups, workspaces and profiles, finding and peeking, sandboxes, shields, each site's settings, passwords, the palette, the sidebar, downloads and extensions, sound, the right-click menus, and making it yours), with importing bookmarks, history, passwords and cards from Chrome, Edge, Brave, Opera, Vivaldi and others on the same computer. It's in the command palette ("Welcome") to see again.
 
 ### Settings
 
