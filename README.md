@@ -185,7 +185,7 @@ Uninstall from Windows' Installed apps. Mosaic Browser's own uninstaller removes
 Each release has a `SHA256SUMS` file. In a terminal, in the folder you downloaded to:
 
 ```
-certutil -hashfile mosaic-browser-160.0.en-US.win64.installer.exe SHA256
+certutil -hashfile mosaic-browser-160.0.1.en-US.win64.installer.exe SHA256
 ```
 
 The result should match the installer's line in `SHA256SUMS`. From 0.5.1 on, `SHA256SUMS.sig` is its signature, made with the project's own key; the browser checks it itself before it updates.
